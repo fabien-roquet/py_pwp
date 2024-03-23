@@ -1,0 +1,18 @@
+[project]
+name = "py_pwp"
+version = "0.0.1"
+authors = [
+  { name="Fabien Roquet", email="fabien.roquet@gu.se" },
+]
+description = "A python implementation of the modified PWP with sea ice written by Kevin Thielen in 2020"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/fabien-roquet/py_pwp"
+

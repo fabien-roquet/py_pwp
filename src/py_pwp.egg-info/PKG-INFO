@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: py_pwp
+Version: 0.0.1
+Summary: A python implementation of the modified PWP with sea ice written by Kevin Thielen in 2020
+Home-page: https://github.com/fabien-roquet/py_pwp
+Author: Fabien Roquet
+Author-email: Fabien Roquet <fabien.roquet@gu.se>
+Project-URL: Homepage, https://github.com/fabien-roquet/py_pwp
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8, <4
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# py_pwp
+1D column ocean model with sea ice, based on PWP
