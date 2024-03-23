@@ -1,0 +1,24 @@
+certifi==2024.2.2
+cftime==1.6.3
+contourpy==1.2.0
+cycler==0.12.1
+fonttools==4.50.0
+importlib_resources==6.4.0
+kiwisolver==1.4.5
+llvmlite==0.42.0
+matplotlib==3.8.3
+netCDF4==1.6.5
+numba==0.59.1
+numpy==1.26.4
+packaging==24.0
+pandas==2.2.1
+pillow==10.2.0
+-e git+https://github.com/fabien-roquet/py_pwp@818d9bda0ff58d7fd5a6b183aab8788e7ad81d4e#egg=py_pwp
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+pytz==2024.1
+six==1.16.0
+tqdm==4.66.2
+tzdata==2024.1
+xarray==2024.2.0
+zipp==3.18.1
